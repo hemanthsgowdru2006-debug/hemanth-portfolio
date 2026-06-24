@@ -128,7 +128,7 @@ function ResumePage() {
           </p>
           <div className="mt-5 flex flex-wrap gap-x-6 gap-y-2 text-sm text-muted-foreground">
             <span className="inline-flex items-center gap-1.5">
-              <Mail size={14} className="text-primary" /> hemanthsgowdru2006@gmaail.com
+              <Mail size={14} className="text-primary" /> hemanthsgowdru2006@gmail.com
             </span>
             <span className="inline-flex items-center gap-1.5">
               <MapPin size={14} className="text-primary" /> Hassan, Karnataka, India
