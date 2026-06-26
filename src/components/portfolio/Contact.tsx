@@ -43,7 +43,7 @@ const socials = [
   {
     icon: Mail,
     label: "Email",
-    href: "hemanthsgowdru2006@gmail.com",
+    href: "mailto:hemanthsgowdru2006@gmail.com",
   },
   {
     icon: Instagram,
