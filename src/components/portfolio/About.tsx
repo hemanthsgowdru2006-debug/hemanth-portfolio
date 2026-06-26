@@ -27,7 +27,7 @@ function Counter({ to, suffix = "", decimals = 0 }: { to: number; suffix?: strin
 }
 
 const stats = [
-  { icon: GraduationCap, label: "CGPA", value: 8.61, decimals: 2 },
+  { icon: GraduationCap, label: "CGPA", value: 8.69, decimals: 2 },
   { icon: Code, label: "Projects", value: 8, suffix: "+" },
   { icon: Award, label: "Certifications", value: 12, suffix: "+" },
   { icon: Trophy, label: "Hackathons", value: 5, suffix: "+" },

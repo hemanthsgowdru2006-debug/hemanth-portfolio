@@ -25,7 +25,7 @@ const education = [
     year: "2024 — Present",
     title: "B.E. Computer Science (AI & ML)",
     place: "Malnad College of Engineering, Hassan",
-    detail: "CGPA: 8.61 · Specializing in Machine Learning, Deep Learning and intelligent systems.",
+    detail: "CGPA: 8.69 · Specializing in Machine Learning, Deep Learning and intelligent systems.",
   },
   {
     year: "2022 — 2024",
@@ -86,8 +86,9 @@ const skillGroups: Record<string, string[]> = {
 };
 
 const certifications = [
+  { title: "AIML Internship", issuer: "ZoomInData", year: "2026" },
   { title: "Machine Learning Internship", issuer: "Cognifyz IT Solutions", year: "2026" },
-  { title: "Machine Learning Internship", issuer: "Cognifyz IT Solutions", year: "2026" },
+  { title: "Machine Learning Internship", issuer: "Saiket Systems", year: "2026" },
   { title: "Google Student Ambassador", issuer: "Team Gemini", year: "2026" },
   { title: "DSA in C", issuer: "Simplilearn", year: "2025" },
 ];

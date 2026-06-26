@@ -15,6 +15,15 @@ const items = [
   {
     icon: Briefcase,
     tag: "Internship",
+    title: "AIML Intern",
+    org: "ZoomInData",
+    status: "Selected",
+    detail:
+      "To built AIML models, performed feature engineering and contributed to end-to-end model deployment pipelines.",
+  },
+  {
+    icon: Briefcase,
+    tag: "Internship",
     title: "Machine Learning Intern",
     org: "Saiket Systems",
     status: "Completed",
@@ -35,7 +44,7 @@ const items = [
     tag: "Academic",
     title: "Academic Achievements",
     org: "Malnad College of Engineering",
-    status: "CGPA 8.61",
+    status: "CGPA 8.69",
     detail:
       "Consistent top-tier academic performance with strong specialization in AI, ML and software systems.",
   },
