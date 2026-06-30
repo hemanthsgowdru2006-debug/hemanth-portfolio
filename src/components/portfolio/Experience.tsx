@@ -24,6 +24,15 @@ const items = [
   {
     icon: Briefcase,
     tag: "Internship",
+    title: "Bharathi Unnathi Fellowship",
+    org: "Learner's Byte",
+    status: "Completed",
+    detail:
+      "Got skilled in n8n, JAVA, Prompt engineering courses.",
+  },
+  {
+    icon: Briefcase,
+    tag: "Internship",
     title: "Machine Learning Intern",
     org: "Saiket Systems",
     status: "Completed",
